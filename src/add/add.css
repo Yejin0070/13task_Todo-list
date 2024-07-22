@@ -1,0 +1,9 @@
+.toDoBox {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  border: 1px solid rgb(153, 153, 153);
+  color: white;
+  padding: 10px;
+}
